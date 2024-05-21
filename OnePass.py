@@ -29,7 +29,7 @@ def banner():
        ##                                                             ##
        ##                                                        v2.0 ##  
        ## Developed By: Ibrahim Saify                                 ##
-       ## https://github.com/ibrahimsaify                             ##
+       ## https://github.com/ibrahimsaify/OnePass                     ##
        #################################################################
        #################################################################
     """)

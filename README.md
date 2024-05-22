@@ -44,12 +44,16 @@
    ```sh
    pip install -r requirements.txt
    ```
+4. Make the script executable:
+   ```sh
+   chmod +x OnePass.py
+   ```
 
 ## Usage
 
 1. **Run the Script**:
    ```sh
-   ./onepass.py
+   ./OnePass.py
    ```
 2. **Set Master Password**: Follow the prompts to set your master password on the first run.
 3. **Enter Master Password**: Enter your master password on subsequent runs to access the tool.

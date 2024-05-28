@@ -83,7 +83,7 @@ If you encounter permission issues, run the script with `sudo` to ensure proper 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
